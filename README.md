@@ -1,4 +1,4 @@
-Warr Battle - Premium Mobile eSports Platform
+xWarr Battle - Premium Mobile eSports Platform
 
 A premium, modern eSports website for the "Warr Battle" mobile gaming app, featuring dark futuristic gaming UI, neon gradients, and glassmorphism design.
 
